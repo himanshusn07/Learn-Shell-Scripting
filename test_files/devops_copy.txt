@@ -1,0 +1,7 @@
+This is test of grep.
+I like devops
+I want to be an expert in devops
+Devops is going to be the future
+devops is amazing
+deVOPS is amazing
+---------
